@@ -1,2 +1,0 @@
-# Querci
-## It just works
