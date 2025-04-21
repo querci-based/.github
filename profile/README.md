@@ -1,4 +1,4 @@
 # Querci
 ## It just works
 
-Checkout: [https://querci.xyz](https://www.querci.xyz) to join our waitlist
+Checkout: [https://querci.xyz](https://www.querci.net) to join our waitlist
